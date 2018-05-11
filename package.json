@@ -1,6 +1,6 @@
 {
-  "version": "1.6.19",
-  "name": "banana-fusion",
+  "version": "0.1.0",
+  "name": "banana-fusion-snapshot",
   "description": "Banana for Solr - A Port of Kibana",
   "repository": "https://github.com/LucidWorks/banana",
   "homepage": "https://github.com/LucidWorks/banana/wiki",
