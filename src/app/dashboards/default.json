@@ -875,11 +875,11 @@
             "ids": [
               0
             ],
-            "query": "q=*&df=message_txt&wt=json&rows=0&fq=timestamp_tdt:[NOW/HOUR-1HOUR%20TO%20NOW/HOUR%2B1HOUR]&facet=true&facet.field=component_s&facet.limit=10&facet.missing=true&f.component_s.facet.sort=count",
+            "query": "q=*&df=message_txt&wt=json&rows=0&fq=timestamp_tdt:[NOW/HOUR-1HOUR%20TO%20NOW/HOUR%2B1HOUR]&facet=true&facet.field=service_s&facet.limit=10&facet.missing=true&f.service_s.facet.sort=count",
             "custom": ""
           },
           "mode": "count",
-          "field": "component_s",
+          "field": "service_s",
           "stats_field": "",
           "decimal_points": 0,
           "exclude": [],
@@ -965,7 +965,7 @@
             "enable": false,
             "interval": 2
           },
-          "title": "Components"
+          "title": "Services"
         },
         {
           "span": 3,

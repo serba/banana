@@ -1,4 +1,4 @@
-/*! banana-fusion-snapshot - v0.1.1 - 2018-05-11
+/*! banana-fusion-snapshot - v0.1.2 - 2018-05-15
  * https://github.com/LucidWorks/banana/wiki
  * Copyright (c) 2018 Andrew Thanalertvisuti; Licensed Apache-2.0 */
 
